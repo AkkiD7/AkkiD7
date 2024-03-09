@@ -8,10 +8,11 @@
     <img src="https://skillicons.dev/icons?i=js,react" /> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=sqlite,git" /> &nbsp;&nbsp;&nbsp;&nbsp;
   </div>
+  <br/>
   <div>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akkid7&show_icons=true&locale=en&layout=compact" alt="akkid7" />
   </div>
-    
+  <br/>
   <div>
 👨‍💻 All of my projects are available at [(https://akkid7-portfolio.netlify.app/) <br/>
 📫 How to reach me <b>akshayyydabhade@gmail.com</b>  
