@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Akshay Dabhade</h1>
+<h1 align="left">Hi! My Name Akshay Dabhade</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/akkid77" target="blank"><img src="https://img.shields.io/twitter/follow/akkid77?logo=twitter&style=for-the-badge" alt="akkid77" /></a> </p>
