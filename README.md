@@ -1,7 +1,7 @@
 <h1 align="left">Hi! My Name Akshay Dabhade 😄</h1>
 <h3 align="left">🌏A passionate software developer from Maharastra, India</h3>
 
-<h3 style="margin-bottom:20px">Skills</>
+<h3>Skills</h3> <br/>
   <div class="skill-icons"> <img src="https://skillicons.dev/icons?i=cpp,java" />
     <img src="https://skillicons.dev/icons?i=html,css" />
     <img src="https://skillicons.dev/icons?i=js,react" /></div>
