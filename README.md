@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Akshay Dabhade</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akkid7" alt="akkid7" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/akkid77" target="blank"><img src="https://img.shields.io/twitter/follow/akkid77?logo=twitter&style=for-the-badge" alt="akkid77" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://akkid7-portfolio.netlify.app/](https://akkid7-portfolio.netlify.app/)
