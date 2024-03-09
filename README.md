@@ -2,7 +2,7 @@
 <h3 align="left">🌏A passionate software developer from Maharastra, India</h3>
 
 <h3>Skills</>
-  <div class="skill-icons"> <img src="https://skillicons.dev/icons?i=c++,java" /></div>
+  <div class="skill-icons"> <img src="https://skillicons.dev/icons?i=cpp,java" /></div>
   <br/>
 - 👨‍💻 All of my projects are available at [https://akkid7-portfolio.netlify.app/](https://akkid7-portfolio.netlify.app/)
 - 📫 How to reach me **akshayyydabhade@gmail.com**
