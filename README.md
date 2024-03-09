@@ -3,10 +3,10 @@
 
 <h3>Skills</h3>
   <div class="skill-icons"> 
-     <img src="https://skillicons.dev/icons?i=html,css" />
-    <img src="https://skillicons.dev/icons?i=cpp,java" />
-    <img src="https://skillicons.dev/icons?i=js,react" />
-    <img src="https://skillicons.dev/icons?i=sqlite,git" />
+     <img src="https://skillicons.dev/icons?i=html,css" /> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=cpp,java" /> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=js,react" /> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=sqlite,git" /> &nbsp;&nbsp;&nbsp;&nbsp;
   </div>
   <div>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akkid7&show_icons=true&locale=en&layout=compact" alt="akkid7" />
