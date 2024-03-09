@@ -15,8 +15,9 @@
   <br/>
   <div>
 👨‍💻 All of my projects are available at [(https://akkid7-portfolio.netlify.app/) <br/>
-📫 How to reach me <b>akshayyydabhade@gmail.com</b>  
+📫 How to reach me <b>akshayyydabhade@gmail.com</b> <br/>
 🏢 Know about my experiences <a href="https://www.linkedin.com/in/akkid7/overlay/1709964042938/single-media-viewer/?profileId=ACoAADkvGnUBRmn1sqglec2i_xaoNhXCg3JLzk0](https://www.linkedin.com/in/akkid7/overlay/1709964042938/single-media-viewer/?profileId=ACoAADkvGnUBRmn1sqglec2i_xaoNhXCg3JLzk0)">📄</a>
   </div>
 
 <h3 align="left">Socials</h3>
+<a href="https://linkedin.com/in/akkid7"><img src="https://camo.githubusercontent.com/73d7f9030632789d857cd7bb543d9cb9bada0672f246b6008258864452f17988/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
