@@ -1,19 +1,18 @@
 <h1 align="left">Hi! My Name Akshay Dabhade 😄</h1>
 <h3 align="left">🌏A passionate software developer from Maharastra, India</h3>
 
-<h3>Skills</h3> <br/>
+<h3>Skills</h3>
   <div class="skill-icons"> <img src="https://skillicons.dev/icons?i=cpp,java" />
     <img src="https://skillicons.dev/icons?i=html,css" />
     <img src="https://skillicons.dev/icons?i=js,react" /></div>
+    <img src="https://skillicons.dev/icons?i=sql,git" />
   <br/>
-- 👨‍💻 All of my projects are available at [https://akkid7-portfolio.netlify.app/](https://akkid7-portfolio.netlify.app/)
-- 📫 How to reach me **akshayyydabhade@gmail.com**
+👨‍💻 All of my projects are available at [(https://akkid7-portfolio.netlify.app/) <br/>
+📫 How to reach me **akshayyydabhade@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/akkid7/overlay/1709964042938/single-media-viewer/?profileId=ACoAADkvGnUBRmn1sqglec2i_xaoNhXCg3JLzk0](https://www.linkedin.com/in/akkid7/overlay/1709964042938/single-media-viewer/?profileId=ACoAADkvGnUBRmn1sqglec2i_xaoNhXCg3JLzk0)
+Know about my experiences <a href="https://www.linkedin.com/in/akkid7/overlay/1709964042938/single-media-viewer/?profileId=ACoAADkvGnUBRmn1sqglec2i_xaoNhXCg3JLzk0](https://www.linkedin.com/in/akkid7/overlay/1709964042938/single-media-viewer/?profileId=ACoAADkvGnUBRmn1sqglec2i_xaoNhXCg3JLzk0)">📄</>
 
-- ⚡ Fun fact **I thin I am Funny**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials</h3>
 <p align="left">
   <a href="https://linkedin.com/in/akkid7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akkid7" height="30" width="40" /></a>
 <a href="https://twitter.com/akkid77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akkid77" height="30" width="40" /></a>
