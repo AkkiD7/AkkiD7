@@ -4,9 +4,11 @@
 <h3>Skills</h3>
   <div class="skill-icons"> 
      <img src="https://skillicons.dev/icons?i=html,css" /> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=cpp,java" /> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=java" /> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=js,react" /> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=sqlite,git" /> &nbsp;&nbsp;&nbsp;&nbsp;
+       <img src="https://skillicons.dev/icons?i=nodejs,expressjs" /> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=sqlite,mongodb" /> &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://skillicons.dev/icons?i=git,github" /> &nbsp;&nbsp;&nbsp;&nbsp;
   </div>
   <br/>
   <div>
