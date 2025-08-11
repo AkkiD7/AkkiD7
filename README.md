@@ -16,7 +16,7 @@
   </div>
   <br/>
   <div>
-👨‍💻 All of my projects are available at [(https://akkid7-portfolio.netlify.app/) <br/>
+👨‍💻 All of my projects are available at [(https://akkid7-portfolio.vercel.app) <br/>
 📫 How to reach me <b>akshayyydabhade@gmail.com</b> <br/>
 🏢 Know about my experiences <a href="https://www.linkedin.com/in/akkid7/overlay/1709964042938/single-media-viewer/?profileId=ACoAADkvGnUBRmn1sqglec2i_xaoNhXCg3JLzk0](https://www.linkedin.com/in/akkid7/overlay/1709964042938/single-media-viewer/?profileId=ACoAADkvGnUBRmn1sqglec2i_xaoNhXCg3JLzk0)">📄</a>
   </div>
